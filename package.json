@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuchungui/react-native-umeng-sdk.git"
+    "url": "git+https://github.com/yptech/react-native-umeng-sdk.git"
   },
   "keywords": [
     "umeng",
@@ -17,10 +17,10 @@
     "react-native",
     "react-native-umeng-sdk"
   ],
-  "author": "liuchungui",
+  "author": "iDay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liuchungui/react-native-umeng-sdk/issues"
+    "url": "https://github.com/yptech/react-native-umeng-sdk/issues"
   },
-  "homepage": "https://github.com/liuchungui/react-native-umeng-sdk#readme"
+  "homepage": "https://github.com/yptech/react-native-umeng-sdk#readme"
 }
